@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c40db273-750a-49b1-b83a-28c0b589975c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-groovy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learning-groovy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning-groovy/MainClass$_main_closure2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learning-groovy/MainClass$_main_closure2.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -45,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
+  <component name="RunManager" selected="Groovy.main">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainClass" />
       <module name="learning-groovy" />
@@ -66,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainClass" />
         <item itemvalue="Groovy.main" />
+        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -82,6 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1569375528673</updated>
       <workItem from="1569375530053" duration="2775000" />
+      <workItem from="1569429625884" duration="232000" />
+      <workItem from="1569429879802" duration="773000" />
     </task>
     <servers />
   </component>
@@ -93,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

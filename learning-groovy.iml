@@ -18,5 +18,16 @@
         <jarDirectory url="file://$USER_HOME$/.sdkman/candidates/groovy/2.5.8/lib/extras-jaxb" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="groovy-2.5.8" level="application" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/.sdkman/candidates/groovy/2.5.8/lib/extras-jaxb" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/.sdkman/candidates/groovy/2.5.8/lib/extras-jaxb" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
