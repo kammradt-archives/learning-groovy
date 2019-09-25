@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c40db273-750a-49b1-b83a-28c0b589975c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learning-groovy/exceptions/HandlingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learning-groovy/exceptions/HandlingExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learning-groovy/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learning-groovy/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.groovy" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +82,7 @@
       <updated>1569375528673</updated>
       <workItem from="1569375530053" duration="2775000" />
       <workItem from="1569429625884" duration="232000" />
-      <workItem from="1569429879802" duration="1912000" />
+      <workItem from="1569429879802" duration="2173000" />
     </task>
     <task id="LOCAL-00001" summary=":sparkles: Exceptions">
       <created>1569430841238</created>
@@ -94,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569430841238</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=":sparkles: Strings">
+      <created>1569432052117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569432052117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":sparkles: Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: Exceptions" />
+    <MESSAGE value=":sparkles: Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: Strings" />
   </component>
 </project>
